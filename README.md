@@ -1,6 +1,6 @@
 <!-- ...existing code... -->
 
-# Pizza Pie —My Landing Page
+# Pizza Pie — My Landing Page
 
 Simple responsive landing page for a pizza shop with sections for Home, About, Menu, Services, and Contact.
 
